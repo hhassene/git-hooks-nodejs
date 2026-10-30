@@ -13,9 +13,9 @@
     "husky": "^4.3.8",
     "jest": "^30.5.2"
   },
-  "hsuky": {
+  "husky": {
     "hooks": {
-      "pre-commit": "nmp test"
+      "pre-commit": "npm test"
     }
   }
 }
